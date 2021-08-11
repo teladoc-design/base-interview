@@ -1,4 +1,10 @@
-# Tasks
+## Commands
+
+| Commands      | Description |
+| ----------- | ----------- |
+| `npm start`      | Runs local dev server       |
+
+## Tasks
 
 1. Fetch post data from the specified API.
 2. Use DOM APIs to render that post data on the page.
